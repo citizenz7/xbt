@@ -13,6 +13,6 @@ Enter the following commands in a terminal. Be patient while g++ is running, it'
 ```
 git clone https://github.com/poiuty/xbt.git
 cd xbt/Tracker
-./make.sh
+sh make.sh
 cp xbt_tracker.conf.default xbt_tracker.conf
 ```
